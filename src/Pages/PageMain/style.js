@@ -307,7 +307,7 @@ cursor: pointer;
      flex-direction: column;
      height: auto;
      align-items: center;
-     position: absolute;
+     position: fixed;
      transition: transform 300ms ease-in-out;
      translate: 0 -100%;
 
@@ -326,9 +326,9 @@ cursor: pointer;
    #menuFechado{
       font-size: 3em;
       color: white;
-      position: absolute;
+      position: fixed;
      
-      padding: 1.5rem 50%;
+      padding: 1.5rem 47%;
       z-index: 1;
       display: block;
       background-color: black;
