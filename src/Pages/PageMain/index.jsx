@@ -6,8 +6,8 @@ import halteres from "../../assets/um-conjunto-com-muitos-halteres.jpg"
 import localizacao from "../../assets/manha-ensolarada-de-verao-mulher-atletica-nova-que-faz-o-pino-na-rua-do-parque-da-cidade-entre-edificios-urbanos-modernos-exercicio-ao-ar-livre-estilo-de-vida-saudavel.jpg"
 import arrowLeft from '../../assets/arrow-left.svg'
 import arrowRight from "../../assets/arrow-rigth.svg"
-import agachamento from '../../assets/agachamento.jpg'
-import esteira from '../../assets/esteiras.jpg'
+import agachamento from '../../assets/agachamento1.jpg'
+import esteira from '../../assets/esteiras1.jpg'
 
 import { useRef } from "react";
 import { useState } from "react";
